@@ -1,2 +1,2 @@
 # Darkspawners
-Grow a Garden Pet spawner
+Grow a Garden Pet spawne
